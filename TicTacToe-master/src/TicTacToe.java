@@ -5,6 +5,7 @@ public class TicTacToe {
     private static final int SIZE = 3;
     private static int scoreX = 0;
     private static int scoreO = 0;
+    private static int scoreN = 0;
 
     public TicTacToe() {
         initializeBoard();
